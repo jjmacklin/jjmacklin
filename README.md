@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjmacklin aka Jen :blue_heart:
 - 👀 I’m interested in technology, art, and continuous learning
-- 🌱 I’m currently learning Linux, C#, :cloud: , and C++
+- 🌱 I’m currently learning C#, :cloud: , Rust, and C++
 - :robot: Personal projects in progress are a steganography app, machine learning art, and a focus app.
 
 
